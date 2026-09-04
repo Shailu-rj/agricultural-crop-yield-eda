@@ -1,0 +1,5 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Cardamom,1997,Whole Year,West Bengal,2674.0,7,1852.9,254484.58,828.94,0.0
+Sunflower,1997,Whole Year,West Bengal,278.0,1,1852.9,26457.26,86.18,0.0
+Cotton(lint),2017,Kharif,Tamil Nadu,138290.0,337,970.9,21772377.6,52550.2,0.0
+Cotton(lint),2017,Rabi,Tamil Nadu,43341.0,101,970.9,6823607.04,16469.58,0.0
