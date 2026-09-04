@@ -1,0 +1,10 @@
+1. The dataset contains 19,685 observations across 10 variables.
+2. 55 different crops and 30 states are represented.
+3. 6 agricultural seasons are represented.
+4. Rice has the highest total production among the crops analysed, with total production of 246,029,456.50.
+5. Karnataka has the highest total production among the states analysed, with total production of 161,809,940.00.
+6. Whole Year has the highest average yield at approximately 3.125.
+7. The strongest numerical correlation in the dataset is between Area and Fertilizer, with a correlation of 0.992.
+8. There are 112 records with zero production, representing 0.57% of the dataset.
+9. 0 observations were identified as high-yield statistical anomalies using the IQR-based threshold.
+10. Correlation values describe statistical association and should not automatically be interpreted as proof of causation.
