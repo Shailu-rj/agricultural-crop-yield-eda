@@ -1,0 +1,9 @@
+Example,Value,Explanation
+Top crop production share,15.477418642132704,"(246,029,456.50 / 1,589,602,647.50) x 100"
+Area-Production correlation,0.8256699029153689,Pearson correlation between Area and Production
+Production-Yield correlation,0.37651397440029,Pearson correlation between Production and Yield
+Yield IQR,1.7891304350000001,Q3 - Q1 = 2.3891 - 0.6000
+Yield upper IQR threshold,5.0728260875,Q3 + 1.5 x IQR = 2.3891 + 1.5 x 1.7891
+Production mean,80751.975996952,Arithmetic mean of Production
+Production median,13810.0,50th percentile of Production
+Production mean-minus-median,66941.975996952,Mean - Median

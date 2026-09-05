@@ -1,0 +1,18 @@
+1. The final cleaned dataset contains 19,685 observations across 10 variables, covering 55 crops, 30 states, 6 seasons and 24 crop years.
+2. Data-quality checks found 0 missing cells and 0 duplicate rows, indicating that the Week 1 cleaned dataset was structurally consistent for EDA.
+3. Production has a mean of 80,751.976 and a median of 13,810.000. The mean is higher than the median, which is consistent with a right-skewed production distribution.
+4. Production has the highest coefficient of variation among the analysed numerical variables at approximately 143.20%, indicating particularly high relative variability.
+5. Rice is the highest-producing crop in the dataset with total production of 246,029,456.50, contributing approximately 15.48% of total recorded production.
+6. The top five crops together account for approximately 42.45% of total production, showing that production is concentrated among a smaller group of crops.
+7. The highest-producing state is Karnataka with total production of 161,809,940.00, representing 10.18% of total production.
+8. Whole Year has the highest average yield at 3.125, while Autumn has the lowest average yield at 1.379. The absolute gap is 1.745, approximately 126.52% relative to the lower-yield season.
+9. Area and Production have a Pearson correlation of 0.826, indicating a strong positive association. Larger cultivated areas therefore tend to be associated with greater total production in these observations.
+10. Production and Yield have a weaker positive correlation of 0.377. This indicates that higher total production does not automatically imply proportionally higher yield.
+11. The strongest positive numerical relationship is between Area and Fertilizer with r = 0.992. This is an association and should not be interpreted as causation.
+12. The strongest negative numerical relationship is between Area and Annual_Rainfall with r = -0.251. The negative sign indicates an inverse statistical association.
+13. There are 112 zero-production observations, representing 0.57% of the dataset. These were not automatically treated as errors because zero output can represent a genuine agricultural outcome.
+14. There are 0 observations with positive Production but zero Yield. These observations deserve attention when interpreting productivity-related results.
+15. The IQR-based yield analysis identified 0 high-yield observations and 0 low-yield observations using statistical thresholds rather than arbitrary cut-offs.
+16. From the first recorded year (1997) to the last recorded year (2020), total production changed by -96.57%, while average yield changed by 11.56%. These changes should be interpreted within the years and observations represented in the dataset.
+17. The top ten states account for approximately 72.26% of total production. This means overall production patterns can be strongly influenced by a relatively small number of high-producing states.
+18. Correlation and regression results describe statistical relationships within the available observations. They should not be interpreted as proof that one agricultural factor directly causes another.

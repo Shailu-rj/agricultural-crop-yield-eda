@@ -1,3 +1,6 @@
 Metric,Value
 Zero Production Records,112.0
-Percentage of Dataset,0.57
+Percentage of Dataset,0.5689611379222758
+Zero Production and Zero Yield,108.0
+Zero Production but Positive Yield,4.0
+Positive Production but Zero Yield,0.0

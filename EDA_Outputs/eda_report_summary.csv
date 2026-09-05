@@ -1,0 +1,19 @@
+Analysis,Result
+Dataset size,"19,685 rows x 10 columns"
+Missing values,0
+Duplicate rows,0
+Number of crops,55
+Number of states,30
+Number of seasons,6
+Zero-production records,112
+Zero-production percentage,0.57
+High-yield IQR anomalies,0
+Low-yield IQR anomalies,0
+Best-yield season,Whole Year
+Best-yield season average,3.1248
+Worst-yield season,Autumn
+Worst-yield season average,1.3795
+Strongest positive correlation,Area vs Fertilizer = 0.992
+Strongest negative correlation,Area vs Annual_Rainfall = -0.251
+Top crop by production,Rice
+Top state by production,Karnataka
